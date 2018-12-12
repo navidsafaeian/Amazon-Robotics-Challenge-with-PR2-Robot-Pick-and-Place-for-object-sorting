@@ -1,4 +1,5 @@
 # Project: 3D Perception Pick & Place by PR2 Robot
+## (Amazon Robotics Challenge, 2017)
 
 This project focuses on 3D perception using a PR2 robot simulation utilizing an RGB-D camera. The goal of perception is to convert sensor input into a point cloud image where specific objects can be identified and isolated.
 
