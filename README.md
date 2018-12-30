@@ -123,7 +123,7 @@ $ cd ~/catkin_ws/
 $ catkin_make
 ```
 
-Now that you have a workspace, clone or download this repo into the src directory of your workspace:
+Now that you have a workspace, clone or download this repo into the src directory of your workspace.
 
 ### Note: If you have the Kinematics Pick and Place project in the same ROS Workspace as this project, please remove the 'gazebo_grasp_plugin' directory from the project directory otherwise ignore this note. 
 
